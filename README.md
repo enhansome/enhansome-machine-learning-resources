@@ -170,17 +170,17 @@
 ## General Machine Learning
 
 * *Practice*
-  * [**\[List, Library\] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,117 | 🐛 26 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
+  * [**\[List, Library\] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,131 | 🐛 26 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
     * A curated list of awesome machine learning frameworks, libraries and software (by language).
-  * [**\[Library\] scikit-learn**](https://github.com/scikit-learn/scikit-learn) ⭐ 67,010 | 🐛 2,124 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+  * [**\[Library\] scikit-learn**](https://github.com/scikit-learn/scikit-learn) ⭐ 67,031 | 🐛 2,126 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
     * scikit-learn: machine learning in Python.
 
 * *Research*
-  * [**\[List\] Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,797 | 🐛 84 | 📅 2025-05-26 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social)
+  * [**\[List\] Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,801 | 🐛 84 | 📅 2025-05-26 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social)
     * A curated list of awesome deep learning books, courses, videos, lectures, tutorials, and more.
   * [**\[List\] Awesome Deep Learning Papers**](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/terryum/awesome-deep-learning-papers?style=social)
     * A curated list of the most cited deep learning papers (2012-2016).
-  * [**\[List\] Papers-Literature-ML-DL-RL-AI**](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) ⭐ 2,937 | 🐛 2 | 📅 2023-02-18 ![](https://img.shields.io/github/stars/tirthajyoti/Papers-Literature-ML-DL-RL-AI?style=social)
+  * [**\[List\] Papers-Literature-ML-DL-RL-AI**](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) ⭐ 2,936 | 🐛 2 | 📅 2023-02-18 ![](https://img.shields.io/github/stars/tirthajyoti/Papers-Literature-ML-DL-RL-AI?style=social)
     * Impactful and widely cited papers and literature on ML/DL/RL/AI.
 
 ## Machine Learning Paradigm
@@ -188,7 +188,7 @@
 #### Semi/Self-Supervised Learning
 
 * *General*
-  * [**\[List\] Awesome Self-Supervised Learning**](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,412 | 🐛 1 | 📅 2026-02-24 ![](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning?style=social)
+  * [**\[List\] Awesome Self-Supervised Learning**](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24 ![](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning?style=social)
     * A curated list of awesome Self-Supervised Learning resources.
   * [**\[List\] Awesome Semi-Supervised Learning**](https://github.com/yassouali/awesome-semi-supervised-learning) ⭐ 1,856 | 🐛 2 | 📅 2024-05-24 ![](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social)
     * A curated list of awesome Semi-Supervised Learning resources.
@@ -266,7 +266,7 @@
 #### Reinforcement Learning
 
 * *General*
-  * [**\[List\] Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) ⭐ 9,918 | 🐛 7 | 📅 2023-05-25 ![](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social)
+  * [**\[List\] Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) ⭐ 9,917 | 🐛 7 | 📅 2023-05-25 ![](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social)
     * A curated list of resources dedicated to reinforcement learning.
   * [**\[List\] Awesome DL & RL Papers and Other Resources**](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,023 | 🐛 3 | 📅 2026-01-28 ![](https://img.shields.io/github/stars/endymecy/awesome-deeplearning-resources?style=social)
     * A list of recent papers regarding deep learning and deep reinforcement learning.
@@ -276,7 +276,7 @@
     * A curated list of awesome Deep Reinforcement Learning resources.
 
 * *Sub-topics*
-  * [**\[List\] Awesome Robotics**](https://github.com/kiloreux/awesome-robotics) ⭐ 6,972 | 🐛 37 | 📅 2024-09-22 ![](https://img.shields.io/github/stars/kiloreux/awesome-robotics?style=social)
+  * [**\[List\] Awesome Robotics**](https://github.com/kiloreux/awesome-robotics) ⭐ 6,976 | 🐛 37 | 📅 2024-09-22 ![](https://img.shields.io/github/stars/kiloreux/awesome-robotics?style=social)
     * This is a list of various books, courses and other resources for robotics
   * [**\[List\] Awesome RL for Cybersecurity**](https://github.com/Limmen/awesome-rl-for-cybersecurity) ⭐ 1,083 | 🐛 2 | 📅 2026-07-21 ![](https://img.shields.io/github/stars/limmen/awesome-rl-for-cybersecurity?style=social)
     * Curated list of resources dedicated to reinforcement learning applied to cyber security.
@@ -294,9 +294,9 @@
 * *Practice*
   * [**\[Library\] gym**](https://github.com/openai/gym) ⚠️ Archived ![](https://img.shields.io/github/stars/openai/gym?style=social)
     * A toolkit for developing and comparing reinforcement learning algorithms.
-  * [**\[Code Collection\] reinforcement-learning**](https://github.com/dennybritz/reinforcement-learning) ⭐ 22,113 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/dennybritz/reinforcement-learning?style=social)
+  * [**\[Code Collection\] reinforcement-learning**](https://github.com/dennybritz/reinforcement-learning) ⭐ 22,112 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/dennybritz/reinforcement-learning?style=social)
     * Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow.
-  * [**\[Tutorial\] reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,753 | 🐛 22 | 🌐 Python | 📅 2024-08-09 ![](https://img.shields.io/github/stars/ShangtongZhang/reinforcement-learning-an-introduction?style=social)
+  * [**\[Tutorial\] reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,752 | 🐛 23 | 🌐 Python | 📅 2024-08-09 ![](https://img.shields.io/github/stars/ShangtongZhang/reinforcement-learning-an-introduction?style=social)
     * Python replication for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition).
   * [**\[Tutorial\] Reinforcement-learning-with-tensorflow (English\&Chinese)**](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) ⭐ 9,504 | 🐛 70 | 🌐 Python | 📅 2024-03-31 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/MorvanZhou/Reinforcement-learning-with-tensorflow?style=social)
     * Reinforcement Learning Methods and Tutorials.
@@ -308,7 +308,7 @@
     * Reinforcement learning framework and algorithms implemented in PyTorch.
   * [**\[Library\] rlpyt**](https://github.com/astooke/rlpyt) ⭐ 2,278 | 🐛 63 | 🌐 Python | 📅 2021-01-04 ![](https://img.shields.io/github/stars/astooke/rlpyt?style=social)
     * Reinforcement Learning in PyTorch.
-  * [**\[Library\] MARO**](https://github.com/microsoft/maro) ⭐ 921 | 🐛 23 | 🌐 Python | 📅 2025-04-24 ![](https://img.shields.io/github/stars/microsoft/maro?style=social)
+  * [**\[Library\] MARO**](https://github.com/microsoft/maro) ⭐ 921 | 🐛 24 | 🌐 Python | 📅 2025-04-24 ![](https://img.shields.io/github/stars/microsoft/maro?style=social)
     * Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.
   * [**\[Library\] bandits**](https://github.com/bgalbraith/bandits) ⭐ 771 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-02-11 ![](https://img.shields.io/github/stars/bgalbraith/bandits?style=social)
     * Python library for Multi-Armed Bandits.
@@ -330,7 +330,7 @@
     * Domain generalization papers and datasets.
 
 * *Practice*
-  * [**\[Library\] Transfer-Learning-Library**](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,930 | 🐛 19 | 🌐 Python | 📅 2024-05-10 ![](https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social)
+  * [**\[Library\] Transfer-Learning-Library**](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,931 | 🐛 19 | 🌐 Python | 📅 2024-05-10 ![](https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social)
     * Transfer Learning Library for Domain Adaptation, Task Adaptation, and Domain Generalization.
   * [**\[Code Collection\] deep-transfer-learning**](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03 ![](https://img.shields.io/github/stars/easezyc/deep-transfer-learning?style=social)
     * A collection of implementations of deep domain adaptation algorithms
@@ -366,7 +366,7 @@
     * Multitask-Learning scholars, papers, surveys, slides, proceedings, and open-source projects.
 
 * *Sub-topics*
-  * [**\[List\] Awesome Multi-Task Learning (for vision)**](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning) ⭐ 386 | 🐛 1 | 📅 2022-01-31 ![](https://img.shields.io/github/stars/SimonVandenhende/Awesome-Multi-Task-Learning?style=social)
+  * [**\[List\] Awesome Multi-Task Learning (for vision)**](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning) ⭐ 387 | 🐛 1 | 📅 2022-01-31 ![](https://img.shields.io/github/stars/SimonVandenhende/Awesome-Multi-Task-Learning?style=social)
     * A list of papers on multi-task learning for *computer vision*.
 
 * *Practice*
@@ -416,7 +416,7 @@
 > **See also:** [Machine Learning Model](#machine-learning-model) -> [**Generative Model & Generative Adversarial Network (GAN)**](#generative-model--generative-adversarial-network-gan)
 
 * *General*
-  * [**\[List\] Awesome Adversarial Machine Learning**](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,909 | 🐛 5 | 📅 2020-11-26 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/yenchenlin/awesome-adversarial-machine-learning?style=social)
+  * [**\[List\] Awesome Adversarial Machine Learning**](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/yenchenlin/awesome-adversarial-machine-learning?style=social)
     * A curated list of awesome adversarial machine learning resources.
   * [**\[List\] Awesome Adversarial Examples for Deep Learning**](https://github.com/chbrian/awesome-adversarial-examples-dl) ⭐ 267 | 🐛 2 | 📅 2021-02-04 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/chbrian/awesome-adversarial-examples-dl?style=social)
     * A list of amazing resources for adversarial examples in deep learning.
@@ -427,7 +427,7 @@
     * A curated list of adversarial attacks and defenses papers on graph-structured data.
 
 * *Practice*
-  * [**\[Library\] adversarial-robustness-toolbox**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,191 | 🐛 19 | 🌐 Python | 📅 2025-12-12 ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social)
+  * [**\[Library\] adversarial-robustness-toolbox**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,194 | 🐛 19 | 🌐 Python | 📅 2025-12-12 ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social)
     * Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security.
   * [**\[Library\] AdversarialDNN-Playground**](https://github.com/QData/AdversarialDNN-Playground) ⭐ 131 | 🐛 5 | 🌐 Python | 📅 2023-05-01 ![](https://img.shields.io/github/stars/QData/AdversarialDNN-Playground?style=social)
     * Web-based visualization tool for adversarial machine learning / LiveDemo.
@@ -441,7 +441,7 @@
     * Related papers for robust machine learning (we mainly focus on defenses).
 
 * *Practice*
-  * [**\[Library\] adversarial-robustness-toolbox**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,191 | 🐛 19 | 🌐 Python | 📅 2025-12-12 ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social)
+  * [**\[Library\] adversarial-robustness-toolbox**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,194 | 🐛 19 | 🌐 Python | 📅 2025-12-12 ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social)
     * Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security.
   * [**\[Library\] robustness-gym**](https://github.com/robustness-gym/robustness-gym) ⭐ 446 | 🐛 5 | 🌐 Python | 📅 2022-06-28 ![](https://img.shields.io/github/stars/robustness-gym/robustness-gym?style=social)
     * Robustness Gym is an evaluation toolkit for machine learning.
@@ -501,21 +501,21 @@
     * Books, papers, courses, tutorials, libraries, datasets.
 
 * *Sub-topics*
-  * [**\[List\] Awesome Random Forest**](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,253 | 🐛 3 | 📅 2023-11-16 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-random-forest?style=social)
+  * [**\[List\] Awesome Random Forest**](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-random-forest?style=social)
     * A curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
   * [**\[List\] Awesome Gradient Boosting Research Papers**](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05 ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-gradient-boosting-papers?style=social)
     * A curated list of gradient and adaptive boosting papers with implementations.
 
 * *Practice*
-  * [**\[Library\] xgboost**](https://github.com/dmlc/xgboost) ⭐ 28,689 | 🐛 424 | 🌐 C++ | 📅 2026-08-21 ![](https://img.shields.io/github/stars/dmlc/xgboost?style=social)
+  * [**\[Library\] xgboost**](https://github.com/dmlc/xgboost) ⭐ 28,689 | 🐛 422 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/dmlc/xgboost?style=social)
     * Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library.
-  * [**\[Library\] LightGBM**](https://github.com/microsoft/LightGBM) ⭐ 18,707 | 🐛 511 | 🌐 C++ | 📅 2026-08-20 ![](https://img.shields.io/github/stars/microsoft/LightGBM?style=social)
+  * [**\[Library\] LightGBM**](https://github.com/microsoft/LightGBM) ⭐ 18,708 | 🐛 510 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/microsoft/LightGBM?style=social)
     * A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework.
-  * [**\[Library\] catboost**](https://github.com/catboost/catboost) ⭐ 9,073 | 🐛 712 | 🌐 C++ | 📅 2026-08-22 ![](https://img.shields.io/github/stars/catboost/catboost?style=social)
+  * [**\[Library\] catboost**](https://github.com/catboost/catboost) ⭐ 9,075 | 🐛 714 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/catboost/catboost?style=social)
     * A fast, scalable, high performance Gradient Boosting on Decision Trees library.
   * [**\[Library\] mlens**](https://github.com/flennerhag/mlens) ⭐ 866 | 🐛 27 | 🌐 Python | 📅 2023-11-13 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/flennerhag/mlens?style=social)
     * A Python library for high performance ensemble learning.
-  * [**\[Library\] combo**](https://github.com/yzhao062/combo) ⭐ 661 | 🐛 15 | 🌐 Python | 📅 2023-01-14 ![](https://img.shields.io/github/stars/yzhao062/combo?style=social)
+  * [**\[Library\] combo**](https://github.com/yzhao062/combo) ⭐ 661 | 🐛 16 | 🌐 Python | 📅 2023-01-14 ![](https://img.shields.io/github/stars/yzhao062/combo?style=social)
     * A Python Toolbox for Machine Learning Model Combination,
   * [**\[Library\] imbalanced-ensemble (English\&Chinese)**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-03-05 ![](https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social)
     * 类别不平衡/长尾机器学习 | Class-imbalanced/Long-tailed ensemble learning in Python
@@ -540,17 +540,17 @@
 * *Practice*
   * [**\[Library\] NNI (Neural Network Intelligence)**](https://github.com/Microsoft/nni) ⚠️ Archived ![](https://img.shields.io/github/stars/Microsoft/nni?style=social)
     * An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-  * [**\[Library\] ludwig**](https://github.com/ludwig-ai/ludwig) ⭐ 11,745 | 🐛 1 | 🌐 Python | 📅 2026-08-17 ![](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social)
+  * [**\[Library\] ludwig**](https://github.com/ludwig-ai/ludwig) ⭐ 11,746 | 🐛 1 | 🌐 Python | 📅 2026-08-17 ![](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social)
     * Data-centric declarative deep learning framework.
-  * [**\[Library\] autogluon**](https://github.com/awslabs/autogluon) ⭐ 10,611 | 🐛 379 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/awslabs/autogluon?style=social)
+  * [**\[Library\] autogluon**](https://github.com/awslabs/autogluon) ⭐ 10,612 | 🐛 379 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/awslabs/autogluon?style=social)
     * AutoGluon: AutoML for Text, Image, and Tabular Data
-  * [**\[Library\] tpot**](https://github.com/EpistasisLab/tpot) ⭐ 10,052 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11 ![](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social)
+  * [**\[Library\] tpot**](https://github.com/EpistasisLab/tpot) ⭐ 10,051 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11 ![](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social)
     * A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
-  * [**\[Library\] autokeras**](https://github.com/keras-team/autokeras) ⭐ 9,325 | 🐛 160 | 🌐 Python | 📅 2025-11-25 ![](https://img.shields.io/github/stars/keras-team/autokeras?style=social)
+  * [**\[Library\] autokeras**](https://github.com/keras-team/autokeras) ⭐ 9,326 | 🐛 160 | 🌐 Python | 📅 2025-11-25 ![](https://img.shields.io/github/stars/keras-team/autokeras?style=social)
     * AutoML library for deep learning.
   * [**\[Library\] automl**](https://github.com/google/automl) ⚠️ Archived ![](https://img.shields.io/github/stars/google/automl?style=social)
     * (Google Brain AutoML) list of AutoML related models and libraries.
-  * [**\[Library\] FLAML**](https://github.com/microsoft/FLAML) ⭐ 4,388 | 🐛 180 | 🌐 Jupyter Notebook | 📅 2026-08-22 ![](https://img.shields.io/github/stars/microsoft/FLAML?style=social)
+  * [**\[Library\] FLAML**](https://github.com/microsoft/FLAML) ⭐ 4,389 | 🐛 180 | 🌐 Jupyter Notebook | 📅 2026-08-23 ![](https://img.shields.io/github/stars/microsoft/FLAML?style=social)
     * A fast library for AutoML and tuning.
   * [**\[Library\] adanet**](https://github.com/tensorflow/adanet) ⚠️ Archived ![](https://img.shields.io/github/stars/tensorflow/adanet?style=social)
     * Fast and flexible AutoML with learning guarantees.
@@ -576,11 +576,11 @@
     * Federated learning on graph, especially on GNNs, knowledge graph, and private GNN.
 
 * *Practice*
-  * [**\[Library\] Flower**](https://github.com/adap/flower) ⭐ 7,085 | 🐛 399 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/adap/flower?style=social)
+  * [**\[Library\] Flower**](https://github.com/adap/flower) ⭐ 7,084 | 🐛 399 | 🌐 Python | 📅 2026-08-23 ![](https://img.shields.io/github/stars/adap/flower?style=social)
     * A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
-  * [**\[Library\] FATE**](https://github.com/FederatedAI/FATE) ⭐ 6,090 | 🐛 19 | 🌐 Python | 📅 2024-11-19 ![](https://img.shields.io/github/stars/FederatedAI/FATE?style=social)
+  * [**\[Library\] FATE**](https://github.com/FederatedAI/FATE) ⭐ 6,089 | 🐛 18 | 🌐 Python | 📅 2024-11-19 ![](https://img.shields.io/github/stars/FederatedAI/FATE?style=social)
     * An Industrial Grade Federated Learning Framework.
-  * [**\[Library\] federated**](https://github.com/tensorflow/federated) ⭐ 2,447 | 🐛 290 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/tensorflow/federated?style=social)
+  * [**\[Library\] federated**](https://github.com/tensorflow/federated) ⭐ 2,447 | 🐛 289 | 🌐 Python | 📅 2026-08-23 ![](https://img.shields.io/github/stars/tensorflow/federated?style=social)
     * A framework for implementing federated learning (TensorFlow).
   * [**\[Code\] Federated-Learning-PyTorch**](https://github.com/AshwinRJ/Federated-Learning-PyTorch) ⭐ 1,437 | 🐛 31 | 🌐 Python | 📅 2024-05-07 ![](https://img.shields.io/github/stars/AshwinRJ/Federated-Learning-PyTorch?style=social)
     * Implementation of the vanilla federated learning paper.
@@ -588,7 +588,7 @@
 #### Anomaly Detection
 
 * *General*
-  * [**\[List\] Anomaly Detection Learning Resources**](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,365 | 🐛 14 | 🌐 Python | 📅 2026-03-02 ![](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources?style=social)
+  * [**\[List\] Anomaly Detection Learning Resources**](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,368 | 🐛 14 | 🌐 Python | 📅 2026-03-02 ![](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources?style=social)
     * Books & Academic Papers & Online Courses and Videos & Outlier Datasets & Open-source and Commercial Libraries & Toolkits & Key Conferences & Journals.
   * [**\[List\] Awesome Anomaly Detection**](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,900 | 🐛 9 | 📅 2022-09-20 ![](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social)
     * A curated list of awesome anomaly detection resources.
@@ -606,11 +606,11 @@
     * Papers for Video Anomaly Detection, released codes collections.
 
 * *Practice*
-  * [**\[Library\] pyod**](https://github.com/yzhao062/pyod) ⭐ 9,972 | 🐛 232 | 🌐 Python | 📅 2026-08-19 ![](https://img.shields.io/github/stars/yzhao062/pyod?style=social)
+  * [**\[Library\] pyod**](https://github.com/yzhao062/pyod) ⭐ 9,976 | 🐛 232 | 🌐 Python | 📅 2026-08-19 ![](https://img.shields.io/github/stars/yzhao062/pyod?style=social)
     * A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
   * [**\[Library (R)\] AnomalyDetection**](https://github.com/twitter/AnomalyDetection) ⚠️ Archived **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/twitter/AnomalyDetection?style=social)
     * Anomaly Detection with R.
-  * [**\[Code\] RNN-Time-series-Anomaly-Detection**](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection) ⭐ 1,306 | 🐛 35 | 🌐 Python | 📅 2021-08-02 ![](https://img.shields.io/github/stars/chickenbestlover/RNN-Time-series-Anomaly-Detection?style=social)
+  * [**\[Code\] RNN-Time-series-Anomaly-Detection**](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection) ⭐ 1,305 | 🐛 35 | 🌐 Python | 📅 2021-08-02 ![](https://img.shields.io/github/stars/chickenbestlover/RNN-Time-series-Anomaly-Detection?style=social)
     * RNN based Time-series Anomaly detector model implemented in Pytorch.
   * [**\[Library\] luminol**](https://github.com/linkedin/luminol) ⭐ 1,230 | 🐛 35 | 🌐 Python | 📅 2025-08-22 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/linkedin/luminol?style=social)
     * Anomaly Detection and Correlation library.
@@ -630,9 +630,9 @@
     * Collections for state-of-the-art (SOTA), novel multi-view clustering methods (papers, codes and datasets).
 
 * *Practice*
-  * [**\[Library\] faiss**](https://github.com/facebookresearch/faiss) ⭐ 40,789 | 🐛 287 | 🌐 C++ | 📅 2026-08-19 ![](https://img.shields.io/github/stars/facebookresearch/faiss?style=social)
+  * [**\[Library\] faiss**](https://github.com/facebookresearch/faiss) ⭐ 40,796 | 🐛 288 | 🌐 C++ | 📅 2026-08-19 ![](https://img.shields.io/github/stars/facebookresearch/faiss?style=social)
     * A library for efficient similarity search and clustering of dense vectors.
-  * [**\[Library\] hdbscan**](https://github.com/scikit-learn-contrib/hdbscan) ⭐ 3,137 | 🐛 385 | 🌐 Jupyter Notebook | 📅 2026-06-12 ![](https://img.shields.io/github/stars/scikit-learn-contrib/hdbscan?style=social)
+  * [**\[Library\] hdbscan**](https://github.com/scikit-learn-contrib/hdbscan) ⭐ 3,136 | 🐛 385 | 🌐 Jupyter Notebook | 📅 2026-06-12 ![](https://img.shields.io/github/stars/scikit-learn-contrib/hdbscan?style=social)
     * A high performance implementation of HDBSCAN clustering.
   * [**\[Code Collection\] time-series-classification-and-clustering**](https://github.com/alexminnaar/time-series-classification-and-clustering) ⭐ 798 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2021-01-19 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/alexminnaar/time-series-classification-and-clustering?style=social)
     * Time series classification and clustering code written in Python.
@@ -662,9 +662,9 @@
 #### Computer Vision (CV)
 
 * *General*
-  * [**\[List\] Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,511 | 🐛 91 | 📅 2024-05-17 ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social)
+  * [**\[List\] Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,512 | 🐛 91 | 📅 2024-05-17 ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social)
     * A curated list of awesome computer vision resources.
-  * [**\[List\] Awesome Deep Vision**](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=social)
+  * [**\[List\] Awesome Deep Vision**](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=social)
     * A curated list of deep learning resources for computer vision.
   * [**\[List\] Awesome Visual-Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,590 | 🐛 3 | 📅 2025-01-07 ![](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social)
     * Collect some Transformer with Computer-Vision (CV) papers.
@@ -679,7 +679,7 @@
     * Face Detection & Segmentation & Alignment & Tracking, and more.
   * [**\[List\] Awesome Image Classification**](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,062 | 🐛 1 | 📅 2022-04-20 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social)
     * A curated list of deep learning image classification papers and codes since 2014.
-  * [**\[List\] Image and Video Deblurring**](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,912 | 🐛 1 | 📅 2025-06-29 ![](https://img.shields.io/github/stars/subeeshvasu/Awesome-Deblurring?style=social)
+  * [**\[List\] Image and Video Deblurring**](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,913 | 🐛 1 | 📅 2025-06-29 ![](https://img.shields.io/github/stars/subeeshvasu/Awesome-Deblurring?style=social)
     * A curated list of resources for Image and Video Deblurring.
   * [**\[List\] Deep-Learning-for-Tracking-and-Detection**](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ⭐ 2,511 | 🐛 5 | 🌐 HTML | 📅 2026-03-09 ![](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social)
     * Collection of papers, datasets, code and other resources for object detection and tracking using deep learning.
@@ -715,11 +715,11 @@
 #### Natural Language Processing (NLP)
 
 * *General*
-  * [**\[List\] funNLP: The Most Powerful NLP-Weapon Arsenal (Chinese)**](https://github.com/fighting41love/funNLP) ⭐ 82,599 | 🐛 52 | 🌐 Python | 📅 2024-05-10 ![](https://img.shields.io/github/stars/fighting41love/funNLP?style=social)
+  * [**\[List\] funNLP: The Most Powerful NLP-Weapon Arsenal (Chinese)**](https://github.com/fighting41love/funNLP) ⭐ 82,620 | 🐛 52 | 🌐 Python | 📅 2024-05-10 ![](https://img.shields.io/github/stars/fighting41love/funNLP?style=social)
     * NLP民工的乐园: 几乎最全的中文NLP资源库
   * [**\[List\] Tracking Progress in Natural Language Processing**](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28 ![](https://img.shields.io/github/stars/sebastianruder/NLP-progress?style=social)
     * Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-  * [**\[List\] Awesome NLP**](https://github.com/keon/awesome-nlp) ⭐ 18,919 | 🐛 12 | 📅 2026-08-18 ![](https://img.shields.io/github/stars/keon/awesome-nlp?style=social)
+  * [**\[List\] Awesome NLP**](https://github.com/keon/awesome-nlp) ⭐ 18,924 | 🐛 13 | 📅 2026-08-18 ![](https://img.shields.io/github/stars/keon/awesome-nlp?style=social)
     * A curated list of resources dedicated to Natural Language Processing.
   * [**\[List, Tutorial\] ML-NLP (Chinese)**](https://github.com/NLP-LOVE/ML-NLP) ⭐ 17,796 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-01-09 ![](https://img.shields.io/github/stars/NLP-LOVE/ML-NLP?style=social)
     * 此项目是机器学习、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识
@@ -731,7 +731,7 @@
     * Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
 * *Sub-topics*
-  * [**\[List\] PromptPapers**](https://github.com/thunlp/PromptPapers) ⭐ 4,325 | 🐛 6 | 📅 2023-07-17 ![](https://img.shields.io/github/stars/thunlp/PromptPapers?style=social)
+  * [**\[List\] PromptPapers**](https://github.com/thunlp/PromptPapers) ⭐ 4,327 | 🐛 6 | 📅 2023-07-17 ![](https://img.shields.io/github/stars/thunlp/PromptPapers?style=social)
     * Must-read papers on prompt-based tuning for pre-trained language models.
   * [**\[List\] Must-Read Papers on Pre-trained Language Models (PLMs)**](https://github.com/thunlp/PLMpapers) ⭐ 3,359 | 🐛 3 | 📅 2022-11-06 ![](https://img.shields.io/github/stars/thunlp/PLMpapers?style=social)
     * List some representative work on PLMs and show their relationship with a diagram.
@@ -763,9 +763,9 @@
     * Paper Collection of NLP for Recommender System.
 
 * *Practice*
-  * [**\[Tutorial\] NLP Tutorial**](https://github.com/graykode/nlp-tutorial) ⭐ 14,924 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21 ![](https://img.shields.io/github/stars/graykode/nlp-tutorial?style=social)
+  * [**\[Tutorial\] NLP Tutorial**](https://github.com/graykode/nlp-tutorial) ⭐ 14,926 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21 ![](https://img.shields.io/github/stars/graykode/nlp-tutorial?style=social)
     * `nlp-tutorial` is a tutorial for who is studying NLP using Pytorch.
-  * [**\[Datasets\] NLP Datasets**](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15 ![](https://img.shields.io/github/stars/niderhoff/nlp-datasets?style=social)
+  * [**\[Datasets\] NLP Datasets**](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15 ![](https://img.shields.io/github/stars/niderhoff/nlp-datasets?style=social)
     * Alphabetical list of free/public domain datasets with text data for use in NLP.
 
 #### Multi-modal & Cross-modal Learning
@@ -790,7 +790,7 @@
 > **See also:** [Machine Learning Model](#machine-learning-model) -> [**Graph Neural Network (GNN, GCN, GAT, etc.)**](#graph-neural-network-gnn-gcn-gat-etc)
 
 * *General*
-  * [**\[List\] GNNPapers**](https://github.com/thunlp/GNNPapers) ⭐ 16,830 | 🐛 15 | 📅 2023-12-20 ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
+  * [**\[List\] GNNPapers**](https://github.com/thunlp/GNNPapers) ⭐ 16,829 | 🐛 15 | 📅 2023-12-20 ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
     * Must-read papers on GNN.
   * [**\[List\] Graph-based Deep Learning Literature**](https://github.com/naganandy/graph-based-deep-learning-literature) ⭐ 5,096 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-07 ![](https://img.shields.io/github/stars/naganandy/graph-based-deep-learning-literature?style=social)
     * Conference publications in graph-based deep learning.
@@ -806,11 +806,11 @@
     * A collection of graph classification methods, covering embedding, deep learning, graph kernel and factorization papers with reference implementations.
   * [**\[List\] Must-read papers on NRL/NE.**](https://github.com/thunlp/NRLPapers) ⭐ 2,514 | 🐛 0 | 🌐 TeX | 📅 2020-08-03 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/thunlp/NRLPapers?style=social)
     * NRL: network representation learning. NE: network embedding.
-  * [**\[List\] Awesome Explainable Graph Reasoning**](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,990 | 🐛 0 | 📅 2022-04-04 ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
+  * [**\[List\] Awesome Explainable Graph Reasoning**](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,989 | 🐛 0 | 📅 2022-04-04 ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
     * A collection of research papers and software related to explainability in graph machine learning.
   * [**\[List\] Awesome Graph Self-Supervised Learning**](https://github.com/LirongWu/awesome-graph-self-supervised-learning) ⭐ 1,436 | 🐛 0 | 📅 2024-08-15 ![](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social)
     * A curated list for awesome self-supervised graph representation learning resources.
-  * [**\[List\] GNN4Traffic**](https://github.com/jwwthu/GNN4Traffic) ⭐ 1,213 | 🐛 1 | 📅 2024-08-07 ![](https://img.shields.io/github/stars/jwwthu/GNN4Traffic?style=social)
+  * [**\[List\] GNN4Traffic**](https://github.com/jwwthu/GNN4Traffic) ⭐ 1,212 | 🐛 1 | 📅 2024-08-07 ![](https://img.shields.io/github/stars/jwwthu/GNN4Traffic?style=social)
     * This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
   * [**\[List\] GNN based Recommender Systems**](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) ⭐ 1,077 | 🐛 0 | 📅 2022-12-17 ![](https://img.shields.io/github/stars/tsinghua-fib-lab/GNN-Recommender-Systems?style=social)
     * An index of recommendation algorithms that are based on Graph Neural Networks.
@@ -880,7 +880,7 @@
     * Awesome-Deep-Learning-Based-Time-Series-Forecasting.
 
 * *Practice*
-  * [**\[List, Practice\] awesome\_time\_series\_in\_python**](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,261 | 🐛 7 | 📅 2023-02-10 ![](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social)
+  * [**\[List, Practice\] awesome\_time\_series\_in\_python**](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,260 | 🐛 7 | 📅 2023-02-10 ![](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social)
     * Python libraries, datasets, frameworks for time series processing.
   * [**\[Datasets\] Awesome time series database**](https://github.com/xephonhq/awesome-time-series-database) ⭐ 889 | 🐛 32 | 🌐 JavaScript | 📅 2023-07-14 ![](https://img.shields.io/github/stars/xephonhq/awesome-time-series-database?style=social)
     * A curated list of time series databases.
@@ -958,7 +958,7 @@
     * Awesome Transformers (self-attention) in Computer Vision.
 
 * *Pretrained (NOT Foundation) Models*
-  * [**\[List, Practice\] PyTorch Image Models**](https://github.com/rwightman/pytorch-image-models) ⭐ 37,080 | 🐛 61 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/rwightman/pytorch-image-models?style=social)
+  * [**\[List, Practice\] PyTorch Image Models**](https://github.com/rwightman/pytorch-image-models) ⭐ 37,084 | 🐛 62 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/rwightman/pytorch-image-models?style=social)
     * A collection of image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts that aim to pull together a wide variety of SOTA models with ability to reproduce ImageNet training results.
   * [**\[List, Model\] pretrained-models.pytorch**](https://github.com/Cadene/pretrained-models.pytorch) ⭐ 9,098 | 🐛 109 | 🌐 Python | 📅 2022-04-22 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/Cadene/pretrained-models.pytorch?style=social)
     * Pretrained vision models for Pytorch.
@@ -978,14 +978,14 @@
 
 * [**\[Benchmark\] convnet-benchmarks**](https://github.com/soumith/convnet-benchmarks) ⭐ 2,686 | 🐛 34 | 🌐 Python | 📅 2017-06-09 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/soumith/convnet-benchmarks?style=social)
   * Easy benchmarking of public open-source implementations of convnets.
-* [**\[Benchmark\] cnn-benchmarks**](https://github.com/jcjohnson/cnn-benchmarks) ⭐ 2,533 | 🐛 22 | 🌐 Python | 📅 2017-09-25 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/jcjohnson/cnn-benchmarks?style=social)
+* [**\[Benchmark\] cnn-benchmarks**](https://github.com/jcjohnson/cnn-benchmarks) ⭐ 2,532 | 🐛 22 | 🌐 Python | 📅 2017-09-25 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/jcjohnson/cnn-benchmarks?style=social)
   * Benchmarks for popular convolutional neural network models on CPU and different GPUs, with and without cuDNN.
 
 #### Recurrent Neural Network (RNN, LSTM, GRU, etc.)
 
 > **Note:** This is a big topic and almost all existing lists are outdated. Please refer to [**Time-series/Stream Learning**](#time-seriesstream-learning) in [Machine Learning Task & Application](#machine-learning-task--application) for more recent information.
 
-* [**\[List\] Awesome Recurrent Neural Networks**](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-rnn?style=social)
+* [**\[List\] Awesome Recurrent Neural Networks**](https://github.com/kjw0612/awesome-rnn) ⭐ 6,208 | 🐛 4 | 📅 2022-02-03 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-rnn?style=social)
   * A curated list of resources dedicated to recurrent neural networks (closely related to deep learning).
 
 #### Graph Neural Network (GNN, GCN, GAT, etc.)
@@ -993,7 +993,7 @@
 > **See also:** [Machine Learning Task & Application](#machine-learning-task--application) -> [**Graph Learning**](#graph-learning)
 
 * *General*
-  * [**\[List\] GNNPapers**](https://github.com/thunlp/GNNPapers) ⭐ 16,830 | 🐛 15 | 📅 2023-12-20 ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
+  * [**\[List\] GNNPapers**](https://github.com/thunlp/GNNPapers) ⭐ 16,829 | 🐛 15 | 📅 2023-12-20 ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
     * Must-read papers on graph neural network.
   * [**\[List\] GNN\_Review (Chinese)**](https://github.com/LYuhang/GNN_Review) ⭐ 925 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-08-17 ![](https://img.shields.io/github/stars/LYuhang/GNN_Review?style=social)
     * GNN综述阅读报告
@@ -1007,7 +1007,7 @@
 * *Sub-topics*
   * [**\[List\] awesome-self-supervised-gnn**](https://github.com/ChandlerBang/awesome-self-supervised-gnn) ⭐ 1,728 | 🐛 1 | 🌐 Python | 📅 2024-02-02 ![](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social)
     * Papers about self-supervised learning on Graph Neural Networks (GNNs).
-  * [**\[List\] GNN4Traffic**](https://github.com/jwwthu/GNN4Traffic) ⭐ 1,213 | 🐛 1 | 📅 2024-08-07 ![](https://img.shields.io/github/stars/jwwthu/GNN4Traffic?style=social)
+  * [**\[List\] GNN4Traffic**](https://github.com/jwwthu/GNN4Traffic) ⭐ 1,212 | 🐛 1 | 📅 2024-08-07 ![](https://img.shields.io/github/stars/jwwthu/GNN4Traffic?style=social)
     * This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
   * [**\[List\] GNN based Recommender Systems**](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) ⭐ 1,077 | 🐛 0 | 📅 2022-12-17 ![](https://img.shields.io/github/stars/tsinghua-fib-lab/GNN-Recommender-Systems?style=social)
     * An index of recommendation algorithms that are based on Graph Neural Networks.
@@ -1023,13 +1023,13 @@
 > **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Adversarial Learning**](#adversarial-learning)
 
 * *General*
-  * [**\[List\] The GAN Zoo**](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,691 | 🐛 39 | 🌐 Python | 📅 2023-10-06 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/hindupuravinash/the-gan-zoo?style=social)
+  * [**\[List\] The GAN Zoo**](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,692 | 🐛 39 | 🌐 Python | 📅 2023-10-06 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/hindupuravinash/the-gan-zoo?style=social)
     * A list of all named GANs.
   * [**\[List\] AdversarialNetsPapers**](https://github.com/zhangqianhui/AdversarialNetsPapers) ⭐ 6,570 | 🐛 5 | 📅 2022-10-31 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/zhangqianhui/AdversarialNetsPapers?style=social)
     * Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation.
   * [**Awesome GAN Applications**](https://github.com/nashory/gans-awesome-applications) ⭐ 5,102 | 🐛 20 | 📅 2026-06-08 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/nashory/gans-awesome-applications?style=social)
     * Curated list of awesome GAN applications and demonstrations.
-  * [**\[List\] really-awesome-gan**](https://github.com/nightrome/really-awesome-gan) ⭐ 3,774 | 🐛 1 | 📅 2025-08-24 ![](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social)
+  * [**\[List\] really-awesome-gan**](https://github.com/nightrome/really-awesome-gan) ⭐ 3,773 | 🐛 1 | 📅 2025-08-24 ![](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social)
     * A list of papers and other resources on Generative Adversarial (Neural) Networks.
   * [**\[List\] Awesome Generative Modeling Papers**](https://github.com/zhoubolei/awesome-generative-modeling) ⭐ 158 | 🐛 0 | 📅 2021-03-04 ![](https://img.shields.io/github/stars/zhoubolei/awesome-generative-modeling?style=social)
     * Papers on generative modeling.
@@ -1066,7 +1066,7 @@
 * *General*
   * [**\[List\] Awesome Decision Tree Research Papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28 ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-decision-tree-papers?style=social)
     * A curated list of classification and regression tree research papers with implementations.
-  * [**\[List\] Awesome Random Forest**](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,253 | 🐛 3 | 📅 2023-11-16 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-random-forest?style=social)
+  * [**\[List\] Awesome Random Forest**](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,254 | 🐛 3 | 📅 2023-11-16 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-random-forest?style=social)
     * A curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
   * [**\[List\] Awesome Gradient Boosting Research Papers**](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05 ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-gradient-boosting-papers?style=social)
     * A curated list of gradient and adaptive boosting papers with implementations.
@@ -1074,15 +1074,15 @@
     * Books, papers, courses, tutorials, libraries, datasets.
 
 * *Practice*
-  * [**\[Library\] xgboost**](https://github.com/dmlc/xgboost) ⭐ 28,689 | 🐛 424 | 🌐 C++ | 📅 2026-08-21 ![](https://img.shields.io/github/stars/dmlc/xgboost?style=social)
+  * [**\[Library\] xgboost**](https://github.com/dmlc/xgboost) ⭐ 28,689 | 🐛 422 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/dmlc/xgboost?style=social)
     * Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library.
-  * [**\[Library\] LightGBM**](https://github.com/microsoft/LightGBM) ⭐ 18,707 | 🐛 511 | 🌐 C++ | 📅 2026-08-20 ![](https://img.shields.io/github/stars/microsoft/LightGBM?style=social)
+  * [**\[Library\] LightGBM**](https://github.com/microsoft/LightGBM) ⭐ 18,708 | 🐛 510 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/microsoft/LightGBM?style=social)
     * A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework.
-  * [**\[Library\] catboost**](https://github.com/catboost/catboost) ⭐ 9,073 | 🐛 712 | 🌐 C++ | 📅 2026-08-22 ![](https://img.shields.io/github/stars/catboost/catboost?style=social)
+  * [**\[Library\] catboost**](https://github.com/catboost/catboost) ⭐ 9,075 | 🐛 714 | 🌐 C++ | 📅 2026-08-23 ![](https://img.shields.io/github/stars/catboost/catboost?style=social)
     * A fast, scalable, high performance Gradient Boosting on Decision Trees library.
   * [**\[Library\] mlens**](https://github.com/flennerhag/mlens) ⭐ 866 | 🐛 27 | 🌐 Python | 📅 2023-11-13 ![](https://img.shields.io/github/stars/flennerhag/mlens?style=social)
     * A Python library for high performance ensemble learning.
-  * [**\[Library\] combo**](https://github.com/yzhao062/combo) ⭐ 661 | 🐛 15 | 🌐 Python | 📅 2023-01-14 ![](https://img.shields.io/github/stars/yzhao062/combo?style=social)
+  * [**\[Library\] combo**](https://github.com/yzhao062/combo) ⭐ 661 | 🐛 16 | 🌐 Python | 📅 2023-01-14 ![](https://img.shields.io/github/stars/yzhao062/combo?style=social)
     * A Python Toolbox for Machine Learning Model Combination,
   * [**\[Library\] imbalanced-ensemble (English\&Chinese)**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-03-05 ![](https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social)
     * 类别不平衡/长尾机器学习 | Class-imbalanced/Long-tailed ensemble learning in Python
@@ -1092,7 +1092,7 @@
 #### Interpretability in AI
 
 * *General*
-  * [**\[List\] Awesome Machine Learning Interpretability**](hhttps://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,061 | 🐛 27 | 📅 2026-06-03 ![](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social)
+  * [**\[List\] Awesome Machine Learning Interpretability**](hhttps://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,060 | 🐛 27 | 📅 2026-06-03 ![](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social)
     * A curated list of awesome machine learning interpretability resources.
   * [**\[List\] Awesome Explainable AI**](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,650 | 🐛 0 | 🌐 Markdown | 📅 2026-08-19 ![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social)
     * This repository contains the frontier research on explainable AI (XAI) which is a hot topic recently.
@@ -1102,7 +1102,7 @@
     * H2O.ai Machine Learning Interpretability Resources.
 
 * *Sub-topics*
-  * [**\[List\] Awesome Explainable Graph Reasoning**](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,990 | 🐛 0 | 📅 2022-04-04 ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
+  * [**\[List\] Awesome Explainable Graph Reasoning**](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,989 | 🐛 0 | 📅 2022-04-04 ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
     * A collection of research papers and software related to explainability in graph machine learning.
   * [**\[List\] Adversarial Explainable AI**](https://github.com/hbaniecki/adversarial-explainable-ai) ⭐ 335 | 🐛 3 | 📅 2024-11-30 ![](https://img.shields.io/github/stars/hbaniecki/adversarial-explainable-ai?style=social)
     * Adversarial attacks on model explanations, and evaluation approaches.
@@ -1147,9 +1147,9 @@
 
 #### System (MLSys/SysML)
 
-* [**\[List\] Awesome System for Machine Learning**](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,293 | 🐛 14 | 📅 2025-07-25 ![](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social)
+* [**\[List\] Awesome System for Machine Learning**](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,294 | 🐛 14 | 📅 2025-07-25 ![](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social)
   * A curated list of research in machine learning system.
-* [**\[Note\] CS-Notes (Chinese)**](https://github.com/huangrt01/CS-Notes) ⭐ 3,976 | 🐛 7 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/huangrt01/CS-Notes?style=social)
+* [**\[Note\] CS-Notes (Chinese)**](https://github.com/huangrt01/CS-Notes) ⭐ 3,975 | 🐛 7 | 🌐 Python | 📅 2026-08-22 ![](https://img.shields.io/github/stars/huangrt01/CS-Notes?style=social)
   * MLSys和C++自学笔记，以及算法、操作系统，后续学习分布式系统，终身更新。
 * [**\[Tutorial\] Machine learning system design pattern**](https://github.com/mercari/ml-system-design-pattern) ⭐ 2,927 | 🐛 13 | 📅 2021-10-07 ![](https://img.shields.io/github/stars/mercari/ml-system-design-pattern?style=social)
   * System design patterns for training, serving and operation of machine learning systems in production.
@@ -1171,12 +1171,12 @@
 
 * [**\[List\] Machine Learning on Source Code (Website)**](https://ml4code.github.io/) ![](https://img.shields.io/github/stars/ml4code/ml4code.github.io?style=social)
   * Research on machine learning for source code.
-* [**\[List\] awesome-machine-learning-on-source-code**](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,632 | 🐛 8 | 📅 2020-12-03 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/src-d/awesome-machine-learning-on-source-code?style=social)
+* [**\[List\] awesome-machine-learning-on-source-code**](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/src-d/awesome-machine-learning-on-source-code?style=social)
   * Cool links & research papers related to Machine Learning applied to source code (MLonCode).
 
 #### Cyber Security
 
-* [**\[List\] Awesome Machine Learning for Cyber Security**](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,311 | 🐛 33 | 📅 2024-08-19 ![](https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity?style=social)
+* [**\[List\] Awesome Machine Learning for Cyber Security**](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,314 | 🐛 33 | 📅 2024-08-19 ![](https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity?style=social)
   * A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 * [**\[List\] Awesome-Cybersecurity-Datasets**](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,070 | 🐛 15 | 📅 2024-03-02 ![](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?style=social)
   * A curated list of amazingly awesome Cybersecurity datasets.
@@ -1203,7 +1203,7 @@
 
 * [**\[Tutorial\] bioinformatics**](https://github.com/ossu/bioinformatics) ⚠️ Archived ![](https://img.shields.io/github/stars/ossu/bioinformatics?style=social)
   * Path to a free self-taught education in Bioinformatics (mainly curriculums).
-* [**\[List\] Awesome Bioinformatics**](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,251 | 🐛 35 | 📅 2026-04-07 ![](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics?style=social)
+* [**\[List\] Awesome Bioinformatics**](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,252 | 🐛 35 | 📅 2026-04-07 ![](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics?style=social)
   * A curated list of awesome Bioinformatics software, resources, and libraries.
 * [**\[Code Collection\] biocode**](https://github.com/jorvis/biocode) ⭐ 572 | 🐛 27 | 🌐 Python | 📅 2026-07-10 ![](https://img.shields.io/github/stars/jorvis/biocode?style=social)
   * This is a collection of bioinformatics scripts many have found useful and code modules which make writing new ones a lot faster.
@@ -1216,18 +1216,18 @@
   * This is a list of implementations of deep learning methods to biology.
 * [**\[List\] Awesome DeepBio**](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,987 | 🐛 6 | 📅 2021-11-07 **\[⚠️Inactive]** ![](https://img.shields.io/github/stars/gokceneraslan/awesome-deepbio?style=social)
   * A curated list of awesome deep learning applications in the field of computational biology
-* [**\[List\] Awesome Python Chemistry**](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,432 | 🐛 10 | 📅 2025-09-21 ![](https://img.shields.io/github/stars/lmmentel/awesome-python-chemistry?style=social)
+* [**\[List\] Awesome Python Chemistry**](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,433 | 🐛 10 | 📅 2025-09-21 ![](https://img.shields.io/github/stars/lmmentel/awesome-python-chemistry?style=social)
   * A curated list of awesome Python frameworks, libraries, software and resources related to Chemistry.
 * [**\[List\] Deep Learning for Graphs in Chemistry and Biology**](https://github.com/mufeili/DL4MolecularGraph) ⭐ 205 | 🐛 0 | 📅 2020-12-10 ![](https://img.shields.io/github/stars/mufeili/DL4MolecularGraph?style=social)
   * A paper list of deep learning on graphs in chemistry and biology.
 
 #### Finance & Trading
 
-* [**\[Library\] Qlib**](https://github.com/microsoft/qlib) ⭐ 47,840 | 🐛 470 | 🌐 Python | 📅 2026-07-23 ![](https://img.shields.io/github/stars/microsoft/qlib?style=social)
+* [**\[Library\] Qlib**](https://github.com/microsoft/qlib) ⭐ 47,874 | 🐛 470 | 🌐 Python | 📅 2026-07-23 ![](https://img.shields.io/github/stars/microsoft/qlib?style=social)
   * Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 * [**\[List, Practice\] financial-machine-learning**](https://github.com/firmai/financial-machine-learning) ⭐ 8,755 | 🐛 15 | 🌐 Python | 📅 2025-01-03 ![](https://img.shields.io/github/stars/firmai/financial-machine-learning?style=social)
   * A curated list of practical financial machine learning (FinML) tools and applications.
-* [**\[List\] Awesome AI in Finance**](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,428 | 🐛 40 | 📅 2026-08-04 ![](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social)
+* [**\[List\] Awesome AI in Finance**](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,431 | 🐛 40 | 📅 2026-08-04 ![](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social)
   * Research, tools and code that people use to beat the market.
 * [**\[List\] Awesome Financial NLP**](https://github.com/icoxfog417/awesome-financial-nlp) ⭐ 438 | 🐛 2 | 📅 2020-02-01 ![](https://img.shields.io/github/stars/icoxfog417/awesome-financial-nlp?style=social)
   * Researches for Natural Language Processing for Financial Domain.
@@ -1251,9 +1251,9 @@
 
 ## Machine Learning Datasets
 
-* [**\[Datasets\] Awesome Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,472 | 🐛 159 | 📅 2026-08-21 ![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social)
+* [**\[Datasets\] Awesome Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,543 | 🐛 159 | 📅 2026-08-21 ![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social)
   * This list of a topic-centric public data sources in high quality.
-* [**\[Datasets\] NLP Datasets**](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15 ![](https://img.shields.io/github/stars/niderhoff/nlp-datasets?style=social)
+* [**\[Datasets\] NLP Datasets**](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15 ![](https://img.shields.io/github/stars/niderhoff/nlp-datasets?style=social)
   * Alphabetical list of free/public domain datasets with text data for use in NLP.
 * [**\[Datasets\] Awesome-Cybersecurity-Datasets**](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,070 | 🐛 15 | 📅 2024-03-02 ![](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?style=social)
   * A curated list of amazingly awesome Cybersecurity datasets.
@@ -1268,14 +1268,14 @@
 
 #### Open-source Libraries
 
-* [**\[List, Library\] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,117 | 🐛 26 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
+* [**\[List, Library\] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,131 | 🐛 26 | 🌐 Python | 📅 2026-08-21 ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
   * A curated list of awesome machine learning frameworks, libraries and software (by language).
-* [**\[List, Library\] Awesome production machine learning**](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,860 | 🐛 31 | 📅 2026-08-12 ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social)
+* [**\[List, Library\] Awesome production machine learning**](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12 ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social)
   * This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
 
 #### Big Data Frameworks
 
-* [**\[List, Practice\] Awesome Big Data**](https://github.com/0xnr/awesome-bigdata) ⭐ 14,538 | 🐛 3 | 📅 2026-07-31 ![](https://img.shields.io/github/stars/0xnr/awesome-bigdata?style=social)
+* [**\[List, Practice\] Awesome Big Data**](https://github.com/0xnr/awesome-bigdata) ⭐ 14,541 | 🐛 3 | 📅 2026-07-31 ![](https://img.shields.io/github/stars/0xnr/awesome-bigdata?style=social)
   * A curated list of awesome big data frameworks, resources and other awesomeness.
 
 <!-- 
@@ -1319,8 +1319,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,092 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
