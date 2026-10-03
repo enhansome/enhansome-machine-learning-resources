@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "ZhiningLiu1998",
             "repo": "awesome-machine-learning-resources",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "[List, Library] Awesome Machine Learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:10.079Z"
@@ -91,7 +91,7 @@
             {
               "node_type": "item",
               "title": "[Library] scikit-learn",
-              "description": null,
+              "description": "scikit-learn/scikit-learn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -101,10 +101,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T13:23:25Z",
-                "open_issues": 2163,
+                "open_issues": 2164,
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67455,
+                "stars": 67456,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -138,7 +138,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29000,
+                "stars": 29002,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "[List] Papers-Literature-ML-DL-RL-AI",
-              "description": null,
+              "description": "tirthajyoti/Papers-Literature-ML-DL-RL-AI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Self-Supervised Learning",
-                  "description": null,
+                  "description": "jason718/awesome-self-supervised-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -264,7 +264,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Semi-Supervised Learning",
-                  "description": null,
+                  "description": "yassouali/awesome-semi-supervised-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -293,7 +293,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Self-Supervised Papers",
-                  "description": null,
+                  "description": "dev-sungman/Awesome-Self-Supervised-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -327,7 +327,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Self-supervised GNN",
-                  "description": null,
+                  "description": "ChandlerBang/awesome-self-supervised-gnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -357,7 +357,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Graph Self-Supervised Learning",
-                  "description": null,
+                  "description": "LirongWu/awesome-graph-self-supervised-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -396,7 +396,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] unilm",
-                  "description": null,
+                  "description": "microsoft/unilm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -438,7 +438,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] mmselfsup",
-                  "description": null,
+                  "description": "open-mmlab/mmselfsup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -469,7 +469,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] albert",
-                  "description": null,
+                  "description": "google-research/albert",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -504,7 +504,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] PyContrast",
-                  "description": null,
+                  "description": "HobbitLong/PyContrast",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -525,7 +525,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Contrastive Learning",
-                  "description": null,
+                  "description": "asheeshcric/awesome-contrastive-self-supervised-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -553,7 +553,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Contrastive Learning Papers & Codes",
-                  "description": null,
+                  "description": "coder-duibai/Contrastive-Learning-Papers-Codes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -581,7 +581,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] PyGCL",
-                  "description": null,
+                  "description": "PyGCL/PyGCL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -650,7 +650,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-representation-learning",
-                  "description": null,
+                  "description": "Mehooz/awesome-representation-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -678,7 +678,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Implicit Neural Representations",
-                  "description": null,
+                  "description": "vsitzmann/awesome-implicit-representations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -749,7 +749,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-sentence-embedding",
-                  "description": null,
+                  "description": "Separius/awesome-sentence-embedding",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -789,7 +789,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-2vec",
-                  "description": null,
+                  "description": "MaxwellRebo/awesome-2vec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -814,7 +814,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-VAEs",
-                  "description": null,
+                  "description": "matthewvowels1/Awesome-VAEs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -900,7 +900,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Visual Representation Learning with Transformers",
-                  "description": null,
+                  "description": "alohays/awesome-visual-representation-learning-with-transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -928,7 +928,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Deep Graph Representation Learning",
-                  "description": null,
+                  "description": "zlpure/awesome-graph-representation-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -966,7 +966,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] pytorch-metric-learning",
-                  "description": null,
+                  "description": "KevinMusgrave/pytorch-metric-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -998,7 +998,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] metric-learn",
-                  "description": null,
+                  "description": "scikit-learn-contrib/metric-learn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1071,7 +1071,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Reinforcement Learning",
-                  "description": null,
+                  "description": "aikorea/awesome-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1092,7 +1092,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome DL & RL Papers and Other Resources",
-                  "description": null,
+                  "description": "endymecy/awesome-deeplearning-resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1144,7 +1144,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Deep RL",
-                  "description": null,
+                  "description": "kengz/awesome-deep-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1178,7 +1178,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Robotics",
-                  "description": null,
+                  "description": "kiloreux/awesome-robotics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1201,7 +1201,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome RL for Cybersecurity",
-                  "description": null,
+                  "description": "Kim-Hammar/awesome-rl-for-cybersecurity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1222,7 +1222,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Offline RL",
-                  "description": null,
+                  "description": "hanjuku-kaso/awesome-offline-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1250,7 +1250,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Game AI",
-                  "description": null,
+                  "description": "datamllab/awesome-game-ai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1278,7 +1278,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Real World RL",
-                  "description": null,
+                  "description": "ugurkanates/awesome-real-world-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1330,7 +1330,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome RL Competitions",
-                  "description": null,
+                  "description": "seungjaeryanlee/awesome-rl-competitions",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1358,7 +1358,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] gym",
-                  "description": null,
+                  "description": "openai/gym",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1371,7 +1371,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239,
+                    "stars": 37240,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:19:10.079Z"
@@ -1400,7 +1400,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial] reinforcement-learning-an-introduction",
-                  "description": null,
+                  "description": "ShangtongZhang/reinforcement-learning-an-introduction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1497,7 +1497,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] trfl",
-                  "description": null,
+                  "description": "google-deepmind/trfl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1518,7 +1518,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] rlkit",
-                  "description": null,
+                  "description": "rail-berkeley/rlkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1539,7 +1539,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] rlpyt",
-                  "description": null,
+                  "description": "astooke/rlpyt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1560,7 +1560,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] MARO",
-                  "description": null,
+                  "description": "microsoft/maro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1598,7 +1598,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] bandits",
-                  "description": null,
+                  "description": "bgalbraith/bandits",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1619,7 +1619,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] BanditLib",
-                  "description": null,
+                  "description": "HCDM/BanditLib",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1654,7 +1654,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] 迁移学习 Transfer Learning",
-                  "description": null,
+                  "description": "jindongwang/transferlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1696,7 +1696,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Transfer Learning",
-                  "description": null,
+                  "description": "artix41/awesome-transfer-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1730,7 +1730,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Domain Adaptation",
-                  "description": null,
+                  "description": "zhaoxin94/awesome-domain-adaptation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1761,7 +1761,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Domain Generalization",
-                  "description": null,
+                  "description": "amber0309/Domain-generalization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1789,7 +1789,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] Transfer-Learning-Library",
-                  "description": null,
+                  "description": "thuml/Transfer-Learning-Library",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1822,7 +1822,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] deep-transfer-learning",
-                  "description": null,
+                  "description": "easezyc/deep-transfer-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1910,7 +1910,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] Torchmeta",
-                  "description": null,
+                  "description": "tristandeleu/pytorch-meta",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1991,7 +1991,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] learn2learn",
-                  "description": null,
+                  "description": "learnables/learn2learn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2024,7 +2024,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] pytorch-meta",
-                  "description": null,
+                  "description": "tristandeleu/pytorch-meta",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2105,7 +2105,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Multi-Task Learning",
-                  "description": null,
+                  "description": "thuml/awesome-multi-task-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2140,7 +2140,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Multitask-Learning",
-                  "description": null,
+                  "description": "mbs0221/Multitask-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2179,7 +2179,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Multi-Task Learning (for vision)",
-                  "description": null,
+                  "description": "SimonVandenhende/Awesome-Multi-Task-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2212,7 +2212,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] Multi-Task-Learning-PyTorch",
-                  "description": null,
+                  "description": "SimonVandenhende/Multi-Task-Learning-PyTorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2256,7 +2256,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Imbalanced Learning",
-                  "description": null,
+                  "description": "ZhiningLiu1998/awesome-imbalanced-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2291,7 +2291,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Long-Tailed Learning*",
-                  "description": null,
+                  "description": "YifanZhang07/Awesome-LongTailed-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2312,7 +2312,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Long-Tailed Learning",
-                  "description": null,
+                  "description": "weitongseu/awesome-long-tail-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2368,7 +2368,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] imbalanced-learn",
-                  "description": null,
+                  "description": "scikit-learn-contrib/imbalanced-learn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2395,7 +2395,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] imbalanced-ensemble (English&Chinese)",
-                  "description": null,
+                  "description": "ZhiningLiu1998/imbalanced-ensemble",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2449,7 +2449,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Papers Few shot",
-                  "description": null,
+                  "description": "Duan-JM/awesome-papers-fewshot",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2482,7 +2482,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Few Shot Semantic Segmentation Papers",
-                  "description": null,
+                  "description": "xiaomengyc/Few-Shot-Semantic-Segmentation-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2503,7 +2503,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Few-Shot Image Generation",
-                  "description": null,
+                  "description": "bcmi/Awesome-Few-Shot-Image-Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2635,7 +2635,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Must-read Papers on Textual Adversarial Attack and Defense (TAAD)",
-                  "description": null,
+                  "description": "thunlp/TAADpapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2663,7 +2663,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph Adversarial Learning Literature",
-                  "description": null,
+                  "description": "safe-graph/graph-adversarial-learning-literature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2704,7 +2704,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] adversarial-robustness-toolbox",
-                  "description": null,
+                  "description": "Trusted-AI/adversarial-robustness-toolbox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2743,7 +2743,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] AdversarialDNN-Playground",
-                  "description": null,
+                  "description": "QData/AdversarialDNN-Playground",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2786,7 +2786,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Clean, readable and tested code to reproduce few-shot learning research.Awesome Learning with Label Noise",
-                  "description": null,
+                  "description": "subeeshvasu/Awesome-Learning-with-Label-Noise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2814,7 +2814,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Papers of Robust ML (Defense)",
-                  "description": null,
+                  "description": "P2333/Papers-of-Robust-ML",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2842,7 +2842,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] adversarial-robustness-toolbox",
-                  "description": null,
+                  "description": "Trusted-AI/adversarial-robustness-toolbox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2881,7 +2881,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] robustness-gym",
-                  "description": null,
+                  "description": "robustness-gym/robustness-gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2902,7 +2902,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] robustdg",
-                  "description": null,
+                  "description": "microsoft/robustdg",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2943,7 +2943,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Active Learning",
-                  "description": null,
+                  "description": "SupeRuier/awesome-active-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2956,7 +2956,7 @@
                     "open_issues": 1,
                     "owner": "SupeRuier",
                     "repo": "awesome-active-learning",
-                    "stars": 1004,
+                    "stars": 1005,
                     "topics": [
                       "active-learning",
                       "awesome",
@@ -2972,7 +2972,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Active Learning*",
-                  "description": null,
+                  "description": "baifanxxx/awesome-active-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2999,7 +2999,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Active Learning**",
-                  "description": null,
+                  "description": "yongjin-shin/awesome-active-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3035,7 +3035,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] modAL",
-                  "description": null,
+                  "description": "modAL-python/modAL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3087,7 +3087,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] pytorch_active_learning",
-                  "description": null,
+                  "description": "rmunro/pytorch_active_learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3108,7 +3108,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] deep-active-learning",
-                  "description": null,
+                  "description": "ej0cl6/deep-active-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3132,7 +3132,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] libact",
-                  "description": null,
+                  "description": "ntucllab/libact",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3172,7 +3172,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Incremental Learning / Lifelong learning",
-                  "description": null,
+                  "description": "xialeiliu/Awesome-Incremental-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3193,7 +3193,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Continual Learning Literature",
-                  "description": null,
+                  "description": "optimass/continual_learning_papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3214,7 +3214,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Continual Learning Papers",
-                  "description": null,
+                  "description": "ContinualAI/continual-learning-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3241,7 +3241,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Continual/Lifelong Learning",
-                  "description": null,
+                  "description": "prprbr/awesome-lifelong-continual-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3290,7 +3290,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] continual-learning",
-                  "description": null,
+                  "description": "GMvandeVen/continual-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3356,7 +3356,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code Collection] incremental_learning.pytorch",
-                  "description": null,
+                  "description": "arthurdouillard/incremental_learning.pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3453,7 +3453,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Gradient Boosting Research Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-gradient-boosting-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3502,7 +3502,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] xgboost",
-                  "description": null,
+                  "description": "dmlc/xgboost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3512,10 +3512,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T21:06:53Z",
-                    "open_issues": 445,
+                    "open_issues": 447,
                     "owner": "dmlc",
                     "repo": "xgboost",
-                    "stars": 28814,
+                    "stars": 28816,
                     "topics": [
                       "distributed-systems",
                       "gbdt",
@@ -3530,7 +3530,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] LightGBM",
-                  "description": null,
+                  "description": "lightgbm-org/LightGBM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3543,7 +3543,7 @@
                     "open_issues": 538,
                     "owner": "lightgbm-org",
                     "repo": "LightGBM",
-                    "stars": 18827,
+                    "stars": 18828,
                     "topics": [
                       "data-mining",
                       "decision-trees",
@@ -3565,7 +3565,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] catboost",
-                  "description": null,
+                  "description": "catboost/catboost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3635,7 +3635,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] combo",
-                  "description": null,
+                  "description": "yzhao062/combo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3666,7 +3666,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] imbalanced-ensemble (English&Chinese)",
-                  "description": null,
+                  "description": "ZhiningLiu1998/imbalanced-ensemble",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3720,7 +3720,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome AutoML Papers",
-                  "description": null,
+                  "description": "hibayesian/awesome-automl-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3746,7 +3746,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome AutoDL",
-                  "description": null,
+                  "description": "D-X-Y/Awesome-AutoDL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3775,7 +3775,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome AutoML",
-                  "description": null,
+                  "description": "windmaple/awesome-AutoML",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3864,7 +3864,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Neural Architecture Search Papers",
-                  "description": null,
+                  "description": "jackguagua/awesome-nas-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3900,7 +3900,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] NNI (Neural Network Intelligence)",
-                  "description": null,
+                  "description": "microsoft/nni",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3942,7 +3942,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] ludwig",
-                  "description": null,
+                  "description": "ludwig-ai/ludwig",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3984,7 +3984,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] autogluon",
-                  "description": null,
+                  "description": "autogluon/autogluon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4026,7 +4026,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] tpot",
-                  "description": null,
+                  "description": "EpistasisLab/tpot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4068,7 +4068,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] autokeras",
-                  "description": null,
+                  "description": "keras-team/autokeras",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4099,7 +4099,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] automl",
-                  "description": null,
+                  "description": "google/automl",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4112,7 +4112,7 @@
                     "open_issues": 157,
                     "owner": "google",
                     "repo": "automl",
-                    "stars": 6474,
+                    "stars": 6473,
                     "topics": [
                       "automl",
                       "efficientdet",
@@ -4126,7 +4126,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] FLAML",
-                  "description": null,
+                  "description": "microsoft/FLAML",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4135,7 +4135,7 @@
                     "id": 289107293,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T04:18:52Z",
+                    "last_commit": "2026-10-03T04:08:51Z",
                     "open_issues": 180,
                     "owner": "microsoft",
                     "repo": "FLAML",
@@ -4167,7 +4167,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] adanet",
-                  "description": null,
+                  "description": "tensorflow/adanet",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4214,7 +4214,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Learning",
-                  "description": null,
+                  "description": "chaoyanghe/Awesome-Federated-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4256,7 +4256,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Federated Learning",
-                  "description": null,
+                  "description": "lokinko/Federated-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4277,7 +4277,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Learning",
-                  "description": null,
+                  "description": "weimingwill/awesome-federated-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4312,7 +4312,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] 联邦学习 Federated Learning",
-                  "description": null,
+                  "description": "ZeroWangZY/federated-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4333,7 +4333,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Learning*",
-                  "description": null,
+                  "description": "poga/awesome-federated-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4366,7 +4366,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Computing",
-                  "description": null,
+                  "description": "tushar-semwal/awesome-federated-computing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4394,7 +4394,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Learning on Graph and GNN Papers",
-                  "description": null,
+                  "description": "huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4429,7 +4429,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] Flower",
-                  "description": null,
+                  "description": "flwrlabs/flower",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4442,7 +4442,7 @@
                     "open_issues": 396,
                     "owner": "flwrlabs",
                     "repo": "flower",
-                    "stars": 7151,
+                    "stars": 7152,
                     "topics": [
                       "ai",
                       "android",
@@ -4471,7 +4471,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] FATE",
-                  "description": null,
+                  "description": "FederatedAI/FATE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4498,7 +4498,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] federated",
-                  "description": null,
+                  "description": "google-parfait/tensorflow-federated",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4519,7 +4519,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code] Federated-Learning-PyTorch",
-                  "description": null,
+                  "description": "AshwinRJ/Federated-Learning-PyTorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4560,7 +4560,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Anomaly Detection Learning Resources",
-                  "description": null,
+                  "description": "yzhao062/anomaly-detection-resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4599,7 +4599,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Anomaly Detection",
-                  "description": null,
+                  "description": "hoya012/awesome-anomaly-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4658,7 +4658,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Time-series Anomaly Detection",
-                  "description": null,
+                  "description": "rob-med/awesome-TS-anomaly-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4688,7 +4688,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Fraud Detection Research Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-fraud-detection-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4730,7 +4730,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Log Analysis",
-                  "description": null,
+                  "description": "logpai/awesome-log-analysis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4758,7 +4758,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Video Anomaly Detection",
-                  "description": null,
+                  "description": "fjchange/awesome-video-anomaly-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4796,7 +4796,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] pyod",
-                  "description": null,
+                  "description": "yzhao062/pyod",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4809,7 +4809,7 @@
                     "open_issues": 253,
                     "owner": "yzhao062",
                     "repo": "pyod",
-                    "stars": 10025,
+                    "stars": 10026,
                     "topics": [
                       "agentic-ai",
                       "anomaly-detection",
@@ -4858,7 +4858,7 @@
                 {
                   "node_type": "item",
                   "title": "[Code] RNN-Time-series-Anomaly-Detection",
-                  "description": null,
+                  "description": "chickenbestlover/RNN-Time-series-Anomaly-Detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4924,7 +4924,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Deep Clustering",
-                  "description": null,
+                  "description": "zhoushengisnoob/DeepClustering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4952,7 +4952,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Community Detection Research Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-community-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4994,7 +4994,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-Deep-Graph-Clustering",
-                  "description": null,
+                  "description": "yueliu1999/Awesome-Deep-Graph-Clustering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5031,7 +5031,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Multi-view Clustering",
-                  "description": null,
+                  "description": "wangsiwei2010/awesome-multi-view-clustering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5064,7 +5064,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] faiss",
-                  "description": null,
+                  "description": "facebookresearch/faiss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5073,11 +5073,11 @@
                     "id": 81227005,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:01:46Z",
-                    "open_issues": 332,
+                    "last_commit": "2026-10-03T03:40:44Z",
+                    "open_issues": 331,
                     "owner": "facebookresearch",
                     "repo": "faiss",
-                    "stars": 41016,
+                    "stars": 41019,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:19:10.079Z"
@@ -5085,7 +5085,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] hdbscan",
-                  "description": null,
+                  "description": "scikit-learn-contrib/hdbscan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5182,7 +5182,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] featuretools",
-                  "description": null,
+                  "description": "alteryx/featuretools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5353,7 +5353,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Computer Vision",
-                  "description": null,
+                  "description": "jbhuang0604/awesome-computer-vision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5395,7 +5395,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Visual-Transformer",
-                  "description": null,
+                  "description": "dk-liang/Awesome-Visual-Transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5430,7 +5430,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] 3D Machine Learning",
-                  "description": null,
+                  "description": "timzhang642/3D-Machine-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5489,7 +5489,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Neural Radiance Fields",
-                  "description": null,
+                  "description": "awesome-NeRF/awesome-NeRF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5502,7 +5502,7 @@
                     "open_issues": 1,
                     "owner": "awesome-NeRF",
                     "repo": "awesome-NeRF",
-                    "stars": 6776,
+                    "stars": 6777,
                     "topics": [
                       "nerf"
                     ]
@@ -5512,7 +5512,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Face Recognition",
-                  "description": null,
+                  "description": "ChanChiChoi/awesome-Face_Recognition",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5571,7 +5571,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Image and Video Deblurring",
-                  "description": null,
+                  "description": "subeeshvasu/Awesome-Deblurring",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5607,7 +5607,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Deep-Learning-for-Tracking-and-Detection",
-                  "description": null,
+                  "description": "abhineet123/Deep-Learning-for-Tracking-and-Detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5639,7 +5639,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Neural Rendering",
-                  "description": null,
+                  "description": "weihaox/awesome-neural-rendering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5666,7 +5666,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Inpainting Tech",
-                  "description": null,
+                  "description": "zengyh1900/Awesome-Image-Inpainting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5732,7 +5732,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Image-to-Image Translation",
-                  "description": null,
+                  "description": "weihaox/awesome-image-translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5759,7 +5759,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] 3D-Reconstruction-with-Deep-Learning-Methods",
-                  "description": null,
+                  "description": "natowi/3D-Reconstruction-with-Deep-Learning-Methods",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5816,7 +5816,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Few Shot Semantic Segmentation Papers",
-                  "description": null,
+                  "description": "xiaomengyc/Few-Shot-Semantic-Segmentation-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5837,7 +5837,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Deep Learning for Video Analysis",
-                  "description": null,
+                  "description": "HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5866,7 +5866,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Video Anomaly Detection",
-                  "description": null,
+                  "description": "fjchange/awesome-video-anomaly-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5897,7 +5897,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-3D-vision (Chinese)",
-                  "description": null,
+                  "description": "Hardy-Uint/awesome-3D-vision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5918,7 +5918,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Few-Shot Image Generation",
-                  "description": null,
+                  "description": "bcmi/Awesome-Few-Shot-Image-Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5944,7 +5944,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awsome_Deep_Geometry_Learning",
-                  "description": null,
+                  "description": "subeeshvasu/Awsome_Deep_Geometry_Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5976,7 +5976,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Visual Representation Learning with Transformers",
-                  "description": null,
+                  "description": "alohays/awesome-visual-representation-learning-with-transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6039,7 +6039,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] funNLP: The Most Powerful NLP-Weapon Arsenal (Chinese)",
-                  "description": null,
+                  "description": "fighting41love/funNLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6052,7 +6052,7 @@
                     "open_issues": 54,
                     "owner": "fighting41love",
                     "repo": "funNLP",
-                    "stars": 83628,
+                    "stars": 83630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:19:10.079Z"
@@ -6060,7 +6060,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Tracking Progress in Natural Language Processing",
-                  "description": null,
+                  "description": "sebastianruder/NLP-progress",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6073,7 +6073,7 @@
                     "open_issues": 40,
                     "owner": "sebastianruder",
                     "repo": "NLP-progress",
-                    "stars": 22951,
+                    "stars": 22950,
                     "topics": [
                       "dialogue",
                       "machine-learning",
@@ -6088,7 +6088,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome NLP",
-                  "description": null,
+                  "description": "keon/awesome-nlp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6098,10 +6098,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-07T10:42:10Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19047,
+                    "stars": 19049,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -6118,7 +6118,7 @@
                 {
                   "node_type": "item",
                   "title": "[List, Tutorial] ML-NLP (Chinese)",
-                  "description": null,
+                  "description": "NLP-LOVE/ML-NLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6193,7 +6193,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome BERT & Transfer Learning in NLP",
-                  "description": null,
+                  "description": "cedrickchee/awesome-transformer-nlp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6239,7 +6239,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] PromptPapers",
-                  "description": null,
+                  "description": "thunlp/PromptPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6270,7 +6270,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Must-Read Papers on Pre-trained Language Models (PLMs)",
-                  "description": null,
+                  "description": "thunlp/PLMpapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6291,7 +6291,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Chinese Medical NLP (Chinese)",
-                  "description": null,
+                  "description": "GanjinZero/awesome_Chinese_medical_NLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6320,7 +6320,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Machine Translation Reading List",
-                  "description": null,
+                  "description": "THUNLP-MT/MT-Reading-List",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6344,7 +6344,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Textual Adversarial Attack and Defense (TAAD)",
-                  "description": null,
+                  "description": "thunlp/TAADpapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6396,7 +6396,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Must-read papers on NRE",
-                  "description": null,
+                  "description": "thunlp/NREPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6420,7 +6420,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Machine Reading Comprehension.",
-                  "description": null,
+                  "description": "thunlp/RCPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6444,7 +6444,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] DataAug4NLP",
-                  "description": null,
+                  "description": "styfeng/DataAug4NLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6476,7 +6476,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Question Answering",
-                  "description": null,
+                  "description": "seriousran/awesome-qa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6489,7 +6489,7 @@
                     "open_issues": 1,
                     "owner": "seriousran",
                     "repo": "awesome-qa",
-                    "stars": 769,
+                    "stars": 770,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -6507,7 +6507,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Legal Intelligence (NLP)",
-                  "description": null,
+                  "description": "thunlp/LegalPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6528,7 +6528,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome NLP Fairness Papers",
-                  "description": null,
+                  "description": "uclanlp/awesome-fairness-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6549,7 +6549,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Financial NLP",
-                  "description": null,
+                  "description": "icoxfog417/awesome-financial-nlp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6575,7 +6575,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph4NLP Literature",
-                  "description": null,
+                  "description": "graph4ai/graph4nlp_literature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6596,7 +6596,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] NLP4Rec-Papers",
-                  "description": null,
+                  "description": "THUDM/NLP4Rec-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6630,7 +6630,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial] NLP Tutorial",
-                  "description": null,
+                  "description": "graykode/nlp-tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6661,7 +6661,7 @@
                 {
                   "node_type": "item",
                   "title": "[Datasets] NLP Datasets",
-                  "description": null,
+                  "description": "niderhoff/nlp-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6696,7 +6696,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Multimodal ML",
-                  "description": null,
+                  "description": "pliang279/awesome-multimodal-ml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6729,7 +6729,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Multimodal Research",
-                  "description": null,
+                  "description": "Eurus-Holmes/Awesome-Multimodal-Research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6742,7 +6742,7 @@
                     "open_issues": 1,
                     "owner": "Eurus-Holmes",
                     "repo": "Awesome-Multimodal-Research",
-                    "stars": 1399,
+                    "stars": 1400,
                     "topics": [
                       "awesome",
                       "multimodal",
@@ -6762,7 +6762,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Document Understanding",
-                  "description": null,
+                  "description": "tstanislawek/awesome-document-understanding",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6804,7 +6804,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Video-Text Retrieval by Deep Learning",
-                  "description": null,
+                  "description": "danieljf24/awesome-video-text-retrieval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6825,7 +6825,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Cross-modal Retrieval Tutorial",
-                  "description": null,
+                  "description": "Paranioar/Awesome_Matching_Pretraining_Transfering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6867,7 +6867,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-Cross-Modal-Video-Moment-Retrieval (Chinese)",
-                  "description": null,
+                  "description": "yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6902,7 +6902,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNNPapers",
-                  "description": null,
+                  "description": "thunlp/GNNPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6926,7 +6926,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph-based Deep Learning Literature",
-                  "description": null,
+                  "description": "naganandy/graph-based-deep-learning-literature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6939,7 +6939,7 @@
                     "open_issues": 0,
                     "owner": "naganandy",
                     "repo": "graph-based-deep-learning-literature",
-                    "stars": 5099,
+                    "stars": 5100,
                     "topics": [
                       "conference-publications",
                       "deep-learning",
@@ -6955,7 +6955,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Literature of Deep Learning for Graphs",
-                  "description": null,
+                  "description": "DeepGraphLearning/LiteratureDL4Graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6988,7 +6988,7 @@
                 {
                   "node_type": "item",
                   "title": "[Benchmark] Graph-Based Deep Learning Models for Urban Traffic Prediction",
-                  "description": null,
+                  "description": "deepkashiwa20/DL-Traff-Graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7016,7 +7016,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Graph Classification",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-graph-classification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7082,7 +7082,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Explainable Graph Reasoning",
-                  "description": null,
+                  "description": "AstraZeneca/awesome-explainable-graph-reasoning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7111,7 +7111,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Graph Self-Supervised Learning",
-                  "description": null,
+                  "description": "LirongWu/awesome-graph-self-supervised-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7143,7 +7143,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN4Traffic",
-                  "description": null,
+                  "description": "jwwthu/GNN4Traffic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7164,7 +7164,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN based Recommender Systems",
-                  "description": null,
+                  "description": "tsinghua-fib-lab/GNN-Recommender-Systems",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7196,7 +7196,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph Adversarial Learning Literature",
-                  "description": null,
+                  "description": "safe-graph/graph-adversarial-learning-literature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7261,7 +7261,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Federated Learning on Graph and GNN Papers",
-                  "description": null,
+                  "description": "huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7289,7 +7289,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-GNN-Recommendation",
-                  "description": null,
+                  "description": "Jhy1993/Awesome-GNN-Recommendation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7314,7 +7314,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph4NLP Literature",
-                  "description": null,
+                  "description": "graph4ai/graph4nlp_literature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7335,7 +7335,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Deep Learning for Graphs in Chemistry and Biology",
-                  "description": null,
+                  "description": "mufeili/DL4MolecularGraph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7356,7 +7356,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Deep Graph Representation Learning",
-                  "description": null,
+                  "description": "zlpure/awesome-graph-representation-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7380,7 +7380,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Fair Graph Learning",
-                  "description": null,
+                  "description": "EdisonLeeeee/Awesome-Fair-Graph-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7405,7 +7405,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome GNNs on Large-scale Graphs",
-                  "description": null,
+                  "description": "Oceanusity/awesome-gnns-on-large-scale-graphs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7433,7 +7433,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-graph",
-                  "description": null,
+                  "description": "jbmusso/awesome-graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7475,7 +7475,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial] Awesome Knowledge Graph (Chinese)",
-                  "description": null,
+                  "description": "husthuke/awesome-knowledge-graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7496,7 +7496,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Knowledge Graph",
-                  "description": null,
+                  "description": "totogo/awesome-knowledge-graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7523,7 +7523,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Knowledge Graphs",
-                  "description": null,
+                  "description": "shaoxiongji/knowledge-graphs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7562,7 +7562,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Knowledge Graph Learning",
-                  "description": null,
+                  "description": "BrambleXu/knowledge-graph-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7575,7 +7575,7 @@
                     "open_issues": 377,
                     "owner": "BrambleXu",
                     "repo": "knowledge-graph-learning",
-                    "stars": 778,
+                    "stars": 777,
                     "topics": [
                       "knowledge-graph",
                       "knowledge-graph-embeddings",
@@ -7594,7 +7594,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] NLP-Knowledge-Graph (Chinese)",
-                  "description": null,
+                  "description": "lihanghang/NLP-Knowledge-Graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7630,7 +7630,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Knowledge Graph Reasoning Papers",
-                  "description": null,
+                  "description": "THU-KEG/Knowledge_Graph_Reasoning_Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7662,7 +7662,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-graph",
-                  "description": null,
+                  "description": "jbmusso/awesome-graph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7704,7 +7704,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-time-series",
-                  "description": null,
+                  "description": "cuge1995/awesome-time-series",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7731,7 +7731,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-time-series",
-                  "description": null,
+                  "description": "cure-lab/Awesome-time-series",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7792,7 +7792,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Time-series Anomaly Detection",
-                  "description": null,
+                  "description": "rob-med/awesome-TS-anomaly-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7822,7 +7822,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Deep Learning Time Series Forecasting",
-                  "description": null,
+                  "description": "Alro10/deep-learning-time-series",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7864,7 +7864,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Time Series Analysis and Data Mining",
-                  "description": null,
+                  "description": "youngdou/awesome-time-series-analysis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7893,7 +7893,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-Deep-Learning-Based-Time-Series-Forecasting",
-                  "description": null,
+                  "description": "fengyang95/Awesome-Deep-Learning-Based-Time-Series-Forecasting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7921,7 +7921,7 @@
                 {
                   "node_type": "item",
                   "title": "[List, Practice] awesome_time_series_in_python",
-                  "description": null,
+                  "description": "MaxBenChrist/awesome_time_series_in_python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7947,7 +7947,7 @@
                 {
                   "node_type": "item",
                   "title": "[Datasets] Awesome time series database",
-                  "description": null,
+                  "description": "xephonhq/awesome-time-series-database",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7975,7 +7975,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] FOST",
-                  "description": null,
+                  "description": "microsoft/FOST",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8031,7 +8031,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-RSPapers",
-                  "description": null,
+                  "description": "RUCAIBox/Awesome-RSPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8085,7 +8085,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement",
-                  "description": null,
+                  "description": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8115,7 +8115,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN based Recommender Systems",
-                  "description": null,
+                  "description": "tsinghua-fib-lab/GNN-Recommender-Systems",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8147,7 +8147,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-GNN-Recommendation",
-                  "description": null,
+                  "description": "Jhy1993/Awesome-GNN-Recommendation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8172,7 +8172,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] NLP4Rec-Papers",
-                  "description": null,
+                  "description": "THUDM/NLP4Rec-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8208,7 +8208,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Information Retrieval",
-              "description": null,
+              "description": "harpribot/awesome-information-retrieval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8236,7 +8236,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Monte Carlo Tree Search Papers",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-monte-carlo-tree-search-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8294,7 +8294,7 @@
                     {
                       "node_type": "item",
                       "title": "[List, Model] Awesome Pretrained Chinese NLP Models (Chinese)",
-                      "description": null,
+                      "description": "lonePatient/awesome-pretrained-chinese-nlp-models",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8333,7 +8333,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Must-Read Papers on Pre-trained Language Models (PLMs)",
-                      "description": null,
+                      "description": "thunlp/PLMpapers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8354,7 +8354,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] BERT-related Papers",
-                      "description": null,
+                      "description": "tomohideshibata/BERT-related-papers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8401,7 +8401,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Vision and Language PreTrained Models",
-                      "description": null,
+                      "description": "yuewang-cuhk/awesome-vision-language-pretraining-papers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8428,7 +8428,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Awesome BERT & Transfer Learning in NLP",
-                      "description": null,
+                      "description": "cedrickchee/awesome-transformer-nlp",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8467,7 +8467,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] PTMs: Pre-trained-Models in NLP (Chinese)",
-                      "description": null,
+                      "description": "loujie0822/Pre-trained-Models",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8495,7 +8495,7 @@
                     {
                       "node_type": "item",
                       "title": "[List, Model] Awesome Sentence Embedding",
-                      "description": null,
+                      "description": "Separius/awesome-sentence-embedding",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -8549,7 +8549,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Awesome Visual-Transformer",
-                      "description": null,
+                      "description": "dk-liang/Awesome-Visual-Transformer",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8577,7 +8577,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Transformer-in-Computer-Vision",
-                      "description": null,
+                      "description": "Yangzhangcst/Transformer-in-Computer-Vision",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8608,7 +8608,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Transformer-in-Vision",
-                      "description": null,
+                      "description": "DirtyHarryLYL/Transformer-in-Vision",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8638,7 +8638,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Vision and Language PreTrained Models",
-                      "description": null,
+                      "description": "yuewang-cuhk/awesome-vision-language-pretraining-papers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8665,7 +8665,7 @@
                     {
                       "node_type": "item",
                       "title": "[List] Awesome Visual Representation Learning with Transformers",
-                      "description": null,
+                      "description": "alohays/awesome-visual-representation-learning-with-transformers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8700,7 +8700,7 @@
                     {
                       "node_type": "item",
                       "title": "[List, Practice] PyTorch Image Models",
-                      "description": null,
+                      "description": "huggingface/pytorch-image-models",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8812,7 +8812,7 @@
                     {
                       "node_type": "item",
                       "title": "[List, Model] CV-pretrained-model",
-                      "description": null,
+                      "description": "balavenkatesh3322/CV-pretrained-model",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8862,7 +8862,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-pretrained-models-for-information-retrieval",
-                  "description": null,
+                  "description": "ict-bigdatalab/awesome-pretrained-models-for-information-retrieval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8986,7 +8986,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNNPapers",
-                  "description": null,
+                  "description": "thunlp/GNNPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9010,7 +9010,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN_Review (Chinese)",
-                  "description": null,
+                  "description": "LYuhang/GNN_Review",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9031,7 +9031,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph-based Neural Networks",
-                  "description": null,
+                  "description": "sungyongs/graph-based-nn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9052,7 +9052,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome GCN",
-                  "description": null,
+                  "description": "Jiakui/awesome-gcn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9080,7 +9080,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Graph Neural Network (GNN) progress",
-                  "description": null,
+                  "description": "jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9108,7 +9108,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-self-supervised-gnn",
-                  "description": null,
+                  "description": "ChandlerBang/awesome-self-supervised-gnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9138,7 +9138,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN4Traffic",
-                  "description": null,
+                  "description": "jwwthu/GNN4Traffic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9159,7 +9159,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] GNN based Recommender Systems",
-                  "description": null,
+                  "description": "tsinghua-fib-lab/GNN-Recommender-Systems",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9191,7 +9191,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome GNNs on Large-scale Graphs",
-                  "description": null,
+                  "description": "Oceanusity/awesome-gnns-on-large-scale-graphs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9333,7 +9333,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] really-awesome-gan",
-                  "description": null,
+                  "description": "nightrome/really-awesome-gan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9354,7 +9354,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Generative Modeling Papers",
-                  "description": null,
+                  "description": "zhoubolei/awesome-generative-modeling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9382,7 +9382,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome-gan-for-medical-imaging",
-                  "description": null,
+                  "description": "xinario/awesome-gan-for-medical-imaging",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9415,7 +9415,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] awesome gan-inversion",
-                  "description": null,
+                  "description": "weihaox/GAN-Inversion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9494,7 +9494,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-GANs with Tensorflow",
-                  "description": null,
+                  "description": "kozistr/Awesome-GANs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9572,7 +9572,7 @@
             {
               "node_type": "item",
               "title": "[Code Collection] PyTorch-VAE",
-              "description": null,
+              "description": "AntixK/PyTorch-VAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9611,7 +9611,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome-VAEs",
-              "description": null,
+              "description": "matthewvowels1/Awesome-VAEs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9657,7 +9657,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Decision Tree Research Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-decision-tree-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9720,7 +9720,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Gradient Boosting Research Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-gradient-boosting-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9796,7 +9796,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] xgboost",
-                  "description": null,
+                  "description": "dmlc/xgboost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9806,10 +9806,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T21:06:53Z",
-                    "open_issues": 445,
+                    "open_issues": 447,
                     "owner": "dmlc",
                     "repo": "xgboost",
-                    "stars": 28814,
+                    "stars": 28816,
                     "topics": [
                       "distributed-systems",
                       "gbdt",
@@ -9824,7 +9824,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] LightGBM",
-                  "description": null,
+                  "description": "lightgbm-org/LightGBM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9837,7 +9837,7 @@
                     "open_issues": 538,
                     "owner": "lightgbm-org",
                     "repo": "LightGBM",
-                    "stars": 18827,
+                    "stars": 18828,
                     "topics": [
                       "data-mining",
                       "decision-trees",
@@ -9859,7 +9859,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] catboost",
-                  "description": null,
+                  "description": "catboost/catboost",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9899,7 +9899,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] mlens",
-                  "description": null,
+                  "description": "flennerhag/mlens",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9929,7 +9929,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] combo",
-                  "description": null,
+                  "description": "yzhao062/combo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9960,7 +9960,7 @@
                 {
                   "node_type": "item",
                   "title": "[Library] imbalanced-ensemble (English&Chinese)",
-                  "description": null,
+                  "description": "ZhiningLiu1998/imbalanced-ensemble",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10020,7 +10020,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Machine Learning Interpretability",
-                  "description": null,
+                  "description": "jphall663/awesome-machine-learning-interpretability",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10062,7 +10062,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Explainable AI",
-                  "description": null,
+                  "description": "wangyongjie-ntu/Awesome-explainable-AI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10134,7 +10134,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Machine Learning Interpretability",
-                  "description": null,
+                  "description": "h2oai/mli-resources",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -10183,7 +10183,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome Explainable Graph Reasoning",
-                  "description": null,
+                  "description": "AstraZeneca/awesome-explainable-graph-reasoning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10212,7 +10212,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Adversarial Explainable AI",
-                  "description": null,
+                  "description": "hbaniecki/adversarial-explainable-ai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10261,7 +10261,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial] interpretable-ml-book",
-                  "description": null,
+                  "description": "christophM/interpretable-ml-book",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10282,7 +10282,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial] interpretable_machine_learning_with_python",
-                  "description": null,
+                  "description": "jphall663/interpretable_machine_learning_with_python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10368,7 +10368,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] FairAI",
-                  "description": null,
+                  "description": "yongkaiwu/FairAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10417,7 +10417,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome NLP Fairness Papers",
-                  "description": null,
+                  "description": "uclanlp/awesome-fairness-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10466,7 +10466,7 @@
                 {
                   "node_type": "item",
                   "title": "[Tutorial]fairness_tutorial",
-                  "description": null,
+                  "description": "dssg/fairness_tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10564,7 +10564,7 @@
                 {
                   "node_type": "item",
                   "title": "[List] Awesome-Privacy",
-                  "description": "**",
+                  "description": "Guyanqi/Awesome-Privacy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10607,7 +10607,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome System for Machine Learning",
-              "description": null,
+              "description": "HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10636,7 +10636,7 @@
             {
               "node_type": "item",
               "title": "[Note] CS-Notes (Chinese)",
-              "description": null,
+              "description": "huangruiteng/CS-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10649,7 +10649,7 @@
                 "open_issues": 6,
                 "owner": "huangruiteng",
                 "repo": "CS-Notes",
-                "stars": 4000,
+                "stars": 3999,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:10.079Z"
@@ -10657,7 +10657,7 @@
             {
               "node_type": "item",
               "title": "[Tutorial] Machine learning system design pattern",
-              "description": null,
+              "description": "mercari/ml-system-design-pattern",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10678,7 +10678,7 @@
             {
               "node_type": "item",
               "title": "[Note] hack-SysML (Chinese)",
-              "description": null,
+              "description": "Jack47/hack-SysML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10785,7 +10785,7 @@
             {
               "node_type": "item",
               "title": "[List] ML4DB-paper-list (English&Chinese)",
-              "description": null,
+              "description": "LumingSun/ML4DB-paper-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10826,7 +10826,7 @@
                 "open_issues": 8,
                 "owner": "src-d",
                 "repo": "awesome-machine-learning-on-source-code",
-                "stars": 6643,
+                "stars": 6644,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -10846,7 +10846,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Machine Learning for Cyber Security",
-              "description": null,
+              "description": "jivoi/awesome-ml-for-cybersecurity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10859,7 +10859,7 @@
                 "open_issues": 31,
                 "owner": "jivoi",
                 "repo": "awesome-ml-for-cybersecurity",
-                "stars": 9432,
+                "stars": 9434,
                 "topics": [
                   "awesome-list",
                   "cyber-security",
@@ -10872,7 +10872,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome-Cybersecurity-Datasets",
-              "description": null,
+              "description": "shramos/Awesome-Cybersecurity-Datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10959,7 +10959,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Machine Learning for Cyber Security",
-              "description": null,
+              "description": "artix41/awesome-quantum-ml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10993,7 +10993,7 @@
             {
               "node_type": "item",
               "title": "[List, Practice] Awesome Chinese Medical NLP (Chinese)",
-              "description": null,
+              "description": "GanjinZero/awesome_Chinese_medical_NLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11022,7 +11022,7 @@
             {
               "node_type": "item",
               "title": "[List] healthcare_ml",
-              "description": null,
+              "description": "isaacmg/healthcare_ml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11082,7 +11082,7 @@
             {
               "node_type": "item",
               "title": "[Tutorial] bioinformatics",
-              "description": null,
+              "description": "ossu/bioinformatics",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11095,7 +11095,7 @@
                 "open_issues": 2,
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7111,
+                "stars": 7112,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:10.079Z"
@@ -11103,7 +11103,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Bioinformatics",
-              "description": null,
+              "description": "danielecook/Awesome-Bioinformatics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11128,7 +11128,7 @@
             {
               "node_type": "item",
               "title": "[Code Collection] biocode",
-              "description": null,
+              "description": "jorvis/biocode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11149,7 +11149,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Bioinformatics Benchmarks",
-              "description": null,
+              "description": "j-andrews7/awesome-bioinformatics-benchmarks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11183,7 +11183,7 @@
             {
               "node_type": "item",
               "title": "[List] deeplearning-biology",
-              "description": null,
+              "description": "hussius/deeplearning-biology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11225,7 +11225,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Python Chemistry",
-              "description": null,
+              "description": "lmmentel/awesome-python-chemistry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11254,7 +11254,7 @@
             {
               "node_type": "item",
               "title": "[List] Deep Learning for Graphs in Chemistry and Biology",
-              "description": null,
+              "description": "mufeili/DL4MolecularGraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11282,7 +11282,7 @@
             {
               "node_type": "item",
               "title": "[Library] Qlib",
-              "description": null,
+              "description": "microsoft/qlib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11295,7 +11295,7 @@
                 "open_issues": 484,
                 "owner": "microsoft",
                 "repo": "qlib",
-                "stars": 49100,
+                "stars": 49102,
                 "topics": [
                   "algorithmic-trading",
                   "auto-quant",
@@ -11322,7 +11322,7 @@
             {
               "node_type": "item",
               "title": "[List, Practice] financial-machine-learning",
-              "description": null,
+              "description": "firmai/financial-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11352,7 +11352,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome AI in Finance",
-              "description": null,
+              "description": "georgezouq/awesome-ai-in-finance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11365,7 +11365,7 @@
                 "open_issues": 52,
                 "owner": "georgezouq",
                 "repo": "awesome-ai-in-finance",
-                "stars": 6629,
+                "stars": 6630,
                 "topics": [
                   "analysis",
                   "awesome",
@@ -11386,7 +11386,7 @@
             {
               "node_type": "item",
               "title": "[List] Awesome Financial NLP",
-              "description": null,
+              "description": "icoxfog417/awesome-financial-nlp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11419,7 +11419,7 @@
             {
               "node_type": "item",
               "title": "[List, Practice] business-machine-learning",
-              "description": null,
+              "description": "firmai/business-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11455,7 +11455,7 @@
             {
               "node_type": "item",
               "title": "[List, Practice] Legal Text Analytics",
-              "description": null,
+              "description": "Liquid-Legal-Institute/Legal-Text-Analytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11480,7 +11480,7 @@
             {
               "node_type": "item",
               "title": "[List] Must-read Papers on Legal Intelligence",
-              "description": null,
+              "description": "thunlp/LegalPapers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11512,7 +11512,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] Awesome Public Datasets",
-          "description": null,
+          "description": "awesomedata/awesome-public-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11525,7 +11525,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79276,
+            "stars": 79277,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -11538,7 +11538,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] NLP Datasets",
-          "description": null,
+          "description": "niderhoff/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11559,7 +11559,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] Awesome-Cybersecurity-Datasets",
-          "description": null,
+          "description": "shramos/Awesome-Cybersecurity-Datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11597,7 +11597,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] Awesome Dataset Tools",
-          "description": null,
+          "description": "jsbroks/awesome-dataset-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11625,7 +11625,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] Awesome time series database",
-          "description": null,
+          "description": "xephonhq/awesome-time-series-database",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11653,7 +11653,7 @@
         {
           "node_type": "item",
           "title": "[Datasets] Awesome Robotics Datasets",
-          "description": null,
+          "description": "mint-lab/awesome-robotics-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11686,7 +11686,7 @@
             {
               "node_type": "item",
               "title": "[List, Library] Awesome Machine Learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11699,7 +11699,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:10.079Z"
@@ -11707,7 +11707,7 @@
             {
               "node_type": "item",
               "title": "[List, Library] Awesome production machine learning",
-              "description": null,
+              "description": "EthicalML/awesome-production-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11716,11 +11716,11 @@
                 "id": 144863525,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:16:45Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T00:57:02Z",
+                "open_issues": 37,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20965,
+                "stars": 20967,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11755,7 +11755,7 @@
             {
               "node_type": "item",
               "title": "[List, Practice] Awesome Big Data",
-              "description": null,
+              "description": "oxnr/awesome-bigdata",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11768,7 +11768,7 @@
                 "open_issues": 6,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14657,
+                "stars": 14658,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11799,7 +11799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:05:19.098Z",
+    "last_updated": "2026-10-03T04:57:01.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome lists across all machine learning topics. | 机器学习/深度学习/人工智能一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。",
@@ -11811,7 +11811,7 @@
       "open_issues": 2,
       "owner": "ZhiningLiu1998",
       "repo": "awesome-machine-learning-resources",
-      "stars": 844,
+      "stars": 845,
       "topics": [
         "artificial-intelligence",
         "awesome",
